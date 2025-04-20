@@ -1,0 +1,29 @@
+{
+  "name": "quickbite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelWoniowei/quickbite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SamuelWoniowei/quickbite/issues"
+  },
+  "homepage": "https://github.com/SamuelWoniowei/quickbite#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "session-file-store": "^1.5.0",
+    "socket.io": "^4.8.1"
+  }
+}
